@@ -2,6 +2,7 @@
 ## The famous ToDo App!
 
 ## This is the famous ToDo app build wtih:
+* Advanced CSS and HTML
 * Javascript
 * Nodejs
 * Express
