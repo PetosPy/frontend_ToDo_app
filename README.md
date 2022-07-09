@@ -4,6 +4,7 @@
 ## This is the famous ToDo app build wtih:
 * Advanced CSS and HTML
 * Javascript
+* Body-parser
 * Nodejs
 * Express
 * EJS templates
